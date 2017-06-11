@@ -13,6 +13,7 @@
 * [simple-vue-project](https://github.com/ZWkang/simple-vue-project) maybe it's a simple project used by vue [@ZWkang](https://github.com/ZWkang) [😎](https://ls-l.cn/dist)
 * [cnode-vue](https://github.com/ihanyang/cnode-vue) Vue版 cnodejs.org社区 WebApp [@ihanyang](https://github.com/ihanyang) [😎](https://hanyang.me/cnode)
 * [vue_cnode](https://github.com/JChehe/vue_cnode) 通过Vue.js 1.0版本结合CNode的API编写的Web APP [@JChehe](https://github.com/JChehe) [😎](https://jcidea.cc/mystatic/vue_cnode)
+* [vue-md-cnode](https://github.com/tgxhx/vue-md-cnode) 基于vue的material design风格的cnode社区 [@tgxhx](https://github.com/tgxhx) [😎](http://39.108.14.248/node)
 
 ### React
 * [cnode](https://github.com/lumia2046/cnode) 基于react编写的cnodejs论坛第三方webapp [@lumia2046](https://github.com/lumia2046) [😎](http://cowate.com/cnode)
