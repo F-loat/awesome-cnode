@@ -3,7 +3,7 @@
 
 ### Vue
 * [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) 基于vue.js重写Cnodejs.org社区的webapp [@shinygang](https://github.com/shinygang) [😎](https://shinygang.coding.me)
-* [CNode](https://github.com/LeeWgg/CNode) 基于cnode社区API重写的Vue2.0项目 [@LeeWgg](https://github.com/LeeWgg) [😎](http://www.leewgg.cn)
+* [CNode](https://github.com/LeeWgg/CNode) 基于cnode社区API重写的Vue2.0项目 [@LeeWgg](https://github.com/LeeWgg)
 * [vue-cnode](https://github.com/lzxb/vue-cnode) 基于vue2 + vue-router + vuex + ES6 + less + flex.css重写vue版cnode社区，使用webpack2打包 [@lzxb](https://github.com/lzxb) [😎](https://lzxb.name/vue-cnode)
 * [vue-cnode](https://github.com/wocaatm/vue-cnode) 利用vue的相关技术和Cnode提供的api构建的webapp [@wocaatm](https://github.com/wocaatm) [😎](http://journeynes.com:8080)
 * [cnode-vue](https://github.com/zycfj/cnode-vue) 采用Vue.js实现的简单CNode单页应用 [@zycfj](https://github.com/zycfj) [😎](http://asset.smallcfj.club/cnode)
@@ -14,6 +14,7 @@
 * [cnode-vue](https://github.com/ihanyang/cnode-vue) Vue版 cnodejs.org社区 WebApp [@ihanyang](https://github.com/ihanyang) [😎](https://hanyang.me/cnode)
 * [vue_cnode](https://github.com/JChehe/vue_cnode) 通过Vue.js 1.0版本结合CNode的API编写的Web APP [@JChehe](https://github.com/JChehe) [😎](https://jcidea.cc/mystatic/vue_cnode)
 * [vue-md-cnode](https://github.com/tgxhx/vue-md-cnode) 基于vue的material design风格的cnode社区 [@tgxhx](https://github.com/tgxhx) [😎](http://39.108.14.248/node)
+* [vueCnode](https://github.com/crywolfx/vueCnode) 基于vue2.0实现cnode社区 [@crywolfx](https://github.com/crywolfx) [😎](http://www.wxink.xyz/project/cnode)
 
 ### React
 * [cnode](https://github.com/lumia2046/cnode) 基于react编写的cnodejs论坛第三方webapp [@lumia2046](https://github.com/lumia2046) [😎](http://cowate.com/cnode)
