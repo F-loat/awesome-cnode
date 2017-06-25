@@ -26,6 +26,7 @@
 * [react-redux-cnode](https://github.com/SZzzzz/react-redux-cnode) A cnode web application base on react, redux and react-router [@SZzzzz](https://github.com/SZzzzz) [😎](https://szzzzz.github.io/demo/cnode)
 * [cnode](https://github.com/hellopao/cnode) a website for cnodejs.org written in typescript & react [@hellopao](https://github.com/hellopao) [😎](http://cnoder.herokuapp.com)
 * [cnodejs-reader](https://github.com/cnodejs/cnodejs-reader) CNode.js reader in React [@cnodejs](https://github.com/cnodejs) [😎](http://repo.tiye.me/cnodejs/cnodejs-reader)
+* [cnodejs-forum](https://github.com/zyl1314/cnodejs-forum) webapp-利用react重写的cnodejs社区 [@zyl1314](https://github.com/zyl1314)
 
 ### Angular
 * CNode-HTML5 [@think2011](https://github.com/think2011) [😎](http://cnode.herokuapp.com)
