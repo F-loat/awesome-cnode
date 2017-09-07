@@ -1,0 +1,26 @@
+{
+  "name": "awesome-cnode",
+  "version": "1.0.0",
+  "description": "A list of client to CNodejs",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-loat/awesome-cnode.git"
+  },
+  "keywords": [
+    "awesome",
+    "cnode"
+  ],
+  "author": "F-loat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-loat/awesome-cnode/issues"
+  },
+  "homepage": "https://github.com/F-loat/awesome-cnode#readme",
+  "dependencies": {
+    "json2md": "^1.5.9"
+  }
+}
