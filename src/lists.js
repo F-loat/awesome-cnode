@@ -219,6 +219,12 @@ module.exports = [
     type: 'React Native',
     items: [
       {
+        author: 'linwh1115',
+        repository: 'react-native-cnodejs',
+        preview: null,
+        description: 'react-native 实现cnodejs客户端',
+      },
+      {
         author: 'bawn',
         repository: 'noder-react-native',
         preview: null,
